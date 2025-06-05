@@ -1,1 +1,27 @@
-.
+[
+  {
+    "flag": "sg",
+    "name": "Singapore",
+    "key": "",
+    "vip": false
+  },
+  {
+    "flag": "in",
+    "name": "India",
+    "key": "",
+    "vip": false
+  },
+    {
+    "flag": "in",
+    "name": "India",
+    "key": "",
+    "vip": false
+  },
+{
+    "flag": "mm",
+    "name": "Myanmar",
+    "key": "",
+    "vip": true
+}
+  
+]
